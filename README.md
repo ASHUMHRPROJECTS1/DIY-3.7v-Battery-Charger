@@ -15,7 +15,6 @@ polymer).
 
 **Supplies:**
 
-> ![](vertopal_b38a1e44667145baabad8fc539ff608f/media/image3.png) 
 > Get all the components ready.
 
 
@@ -25,11 +24,6 @@ polymer).
 > **Step 1: Get Your PCB Ready!**
 
 **Talking about electronics.**
-
-![](vertopal_b38a1e44667145baabad8fc539ff608f/media/image5.png) 
-
-
-![](vertopal_b38a1e44667145baabad8fc539ff608f/media/image6.png) 
 
 
 > After making the circuit diagram I transformed it into a PCB design to
@@ -59,7 +53,6 @@ polymer).
 
 **Step 2: Place All the Components on PCB and Solder It Properly.**
 
-> ![](vertopal_b38a1e44667145baabad8fc539ff608f/media/image10.png) 
 > **Soldering all** the components to
 > **PCB PCB**.
 
@@ -82,8 +75,6 @@ polymer).
 
 **Step 3: Connecting Remaining Wires**
 
-![](vertopal_b38a1e44667145baabad8fc539ff608f/media/image16.png) 
-
 
 > Connect battery wire to the pcb as shown.\
 > Connect power input wires to the pcb.\
@@ -98,7 +89,6 @@ polymer).
 
 **Step 4: Doing Some Settings**
 
-> ![](vertopal_b38a1e44667145baabad8fc539ff608f/media/image19.png) 
 > Now rotate the preset of the pcb to 4.2v
 > as shown in images.
 
@@ -110,8 +100,6 @@ polymer).
  
 
 **Step 5: Testing**
-
-![](vertopal_b38a1e44667145baabad8fc539ff608f/media/image22.png) 
 
 
 > Checking the battery voltage before charging(3.9v).
@@ -126,7 +114,7 @@ polymer).
 > **Verifying** the charged battery by measuring the voltage using
 > multimeter. **Download Gerber**  file from **HERE. HERE.**
 >
-> **New users will also get some coupons while registering atvia this
+> **New users will also get some coupons while registering at [JLCPCB](https://jlcpcb.com/IYB) via this
 > blue link.**
 >
 > **Thank you for reading this guide, hopefully**, **this guide provides
